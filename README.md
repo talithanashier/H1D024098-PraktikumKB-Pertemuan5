@@ -37,3 +37,4 @@ Sistem menampilkan hasil diagnosa
 Pastikan Python sudah terinstall  
 Jalankan file:
 sistem_pakar_tht_gui.py
+
